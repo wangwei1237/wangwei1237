@@ -1,4 +1,4 @@
-### :man_technologist:  Hey!  i'm [17](https://wangwei1237.gitee.io/), a QA Engineer from China.
+### :man_technologist:  Hey!  I'm [17](https://wangwei1237.gitee.io/), a QA Engineer from China.
 
 ### :zap: Languages I have used
 
