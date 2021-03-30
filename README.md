@@ -1,16 +1,27 @@
-### Hi there 👋
+### :man_technologist:  Hey!  i'm [17](https://wangwei1237.gitee.io/), a QA Engineer from China.
 
-<!--
-**wangwei1237/wangwei1237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :zap: Languages I have used
 
-Here are some ideas to get you started:
+![C/C++](https://img.shields.io/badge/-C/C++-000000?style=flat&logo=c)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logo=shell)
+![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :rocket: Technologies I have worked with
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
+
+
+### 💻 Open Source Work Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=wangwei1237&show_icons=true)
+
+### :eyes: Visitors Count
+![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=wangwei1237.readme)
+
+
+
+
+
+
