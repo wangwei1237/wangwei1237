@@ -9,14 +9,14 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logo=shell)
-
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 
 
 ### :rocket: Technologies I have worked with
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![Audacity](https://img.shields.io/badge/-Audacity-000000?style=flat&logo=audacity)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![FFMpeg](https://img.shields.io/badge/-FFMpeg-000000?style=flat)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-000000?style=flat&logo=ffmpeg)
 ![GitBook](https://img.shields.io/badge/-GitBook-000000?style=flat&logo=gitbook)
 ![gitee](https://img.shields.io/badge/-gitee-000000?style=flat&logo=gitee)
 ![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github)
@@ -32,6 +32,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy)
 ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-000000?style=flat&logo=obs-studio)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
+![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=opengl)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=flat&logo=wireshark)
 
