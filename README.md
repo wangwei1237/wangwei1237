@@ -20,6 +20,7 @@
 ![GitBook](https://img.shields.io/badge/-GitBook-000000?style=flat&logo=gitbook)
 ![gitee](https://img.shields.io/badge/-gitee-000000?style=flat&logo=gitee)
 ![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 ![Hexo](https://img.shields.io/badge/-Hexo-000000?style=flat&logo=hexo)
 ![Hive](https://img.shields.io/badge/-hive-000000?style=flat&logo=hive)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
