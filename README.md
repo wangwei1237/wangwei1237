@@ -36,6 +36,8 @@
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=opengl)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=flat&logo=wireshark)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat&logo=openai)
 
 ### 💻 Open Source Work Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=wangwei1237&show_icons=true)
