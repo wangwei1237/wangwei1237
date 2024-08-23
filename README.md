@@ -10,6 +10,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logo=shell)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
 
 
 ### :rocket: Technologies I have worked with
