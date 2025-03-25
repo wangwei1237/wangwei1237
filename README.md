@@ -1,4 +1,4 @@
-### :man_technologist:  Hey!  I'm [17](https://wangwei1237.gitee.io/), a QA Engineer from China.
+### :man_technologist:  Hey!  I'm [17](https://wangwei1237.github.io/), a QA Engineer from China.
 
 ### :zap: Languages I have used
 ![C/C++](https://img.shields.io/badge/-C/C++-000000?style=flat&logo=c)
